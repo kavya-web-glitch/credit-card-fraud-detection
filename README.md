@@ -98,3 +98,18 @@ It also provides:
 - Transaction report download
 
 The project demonstrates the complete Machine Learning workflow from data preprocessing and model training to evaluation, deployment, and real-time monitoring using Streamlit.
+info: please complete authentication in your browser...
+fatal: A task was canceled.
+Enumerating objects: 19, done.
+Counting objects: 100% (19/19), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (15/15), done.
+Writing objects: 100% (19/19), 1.97 MiB | 221.00 KiB/s, done.
+Total 19 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: This repository moved. Please use the new location:
+remote:   https://github.com/kavya-web-glitch/credit-card-fraud-detection.git
+To https://github.com/Kavya-web-glitch/credit-card-fraud-detection.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+PS C:\Users\kavya\OneDrive\Desktop\Fraud_detection_Project>
+
